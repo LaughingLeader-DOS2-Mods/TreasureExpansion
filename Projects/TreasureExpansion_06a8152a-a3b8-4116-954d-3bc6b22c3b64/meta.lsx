@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="06a8152a-a3b8-4116-954d-3bc6b22c3b64" type="23" />
+            <attribute id="Name" value="TreasureExpansion" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="4fe88ef9-7081-46ff-b00d-ae61a96c171d" type="23" />
+        </node>
+    </region>
+</save>

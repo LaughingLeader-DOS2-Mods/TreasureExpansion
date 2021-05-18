@@ -1,0 +1,8 @@
+{
+    "RequiredExtensionVersion": 54,
+    "ModTable": "",
+    "FeatureFlags": [
+        "OsirisExtensions",
+        "Lua"
+    ]
+}
