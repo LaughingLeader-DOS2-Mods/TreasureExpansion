@@ -1,0 +1,4 @@
+key "LLTREASURE_PiercingStab_Range","2.0"
+key "LLTREASURE_PiercingStab_Radius","0.5"
+key "LLTREASURE_PiercingStab_DamageMult","0.75"
+key "LLTREASURE_TornadoVolley_PushDistance","1.5"

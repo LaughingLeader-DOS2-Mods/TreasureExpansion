@@ -1,6 +1,6 @@
 {
     "RequiredExtensionVersion": 54,
-    "ModTable": "",
+    "ModTable": "LLTreasureExpansion",
     "FeatureFlags": [
         "OsirisExtensions",
         "Lua"

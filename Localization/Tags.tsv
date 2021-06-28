@@ -1,0 +1,5 @@
+Key	Content	Handle
+LLTREASURE_PiercingStab	Piercing Stab	h185c2628ga50fg4a27gbcc8g05bd71be079c
+LLTREASURE_PiercingStab_Description	Enemies [ExtraData:LLTREASURE_PiercingStab_Range]m behind the initial target take [ExtraData:LLTREASURE_PiercingStab_DamageMult]% damage.	h6496b86egfeceg49a3g92ecgdef4ea7b37fd
+LLTREASURE_TornadoVolley	Tornado Volley	ha04b7b7dgad84g4d86gb318gf51cb5cd864c
+LLTREASURE_TornadoVolley_Description	After using [Key:Shout_RecoverArmour], a tornado briefly surrounds you, clearing surfaces and pushing enemies [ExtraData:LLTREASURE_TornadoVolley_PushDistance]m away. 	hcc054c15g9c85g42ebga6d4g6947963b8e4d
